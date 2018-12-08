@@ -1,0 +1,64 @@
+#fullpage{
+    
+    width: 100%;
+    position: absolute;
+    background-image: linear-gradient(to right top, #77a8f0, #7f98fc, #9c81ff, #c45ff3, #eb12d8);
+
+    .Content01{
+        margin-top: 200px;
+        .mycontainer01{
+            .myrow01{
+                .mycol6-01{
+                    
+                    h1{
+                        color:white;
+                        font-size: 48px;
+                        
+                    }
+                    p{
+                        font-size: 25px;
+                        color:#D6D1D6; 
+                    }
+                    .button{
+                        margin-top: 40px;
+                        background-color: white;
+                        padding-top: 5px;
+                        width: 130px;
+                        height: 30px;
+                        border-radius: 15px;
+                        text-align: center; 
+                        cursor: pointer;
+                        transition: 0.5s ease;
+                        &:hover{
+                            background-color: transparent;
+                            color:white;
+                            border:2px solid white;
+                        }
+                    }
+
+                }
+              .col-md-2{
+                  float: right;
+                  .text{
+                    float: right;
+                    margin-top: 75px;
+                    width: 100%;
+                    font-size: 20px;
+                    color: white;
+                    cursor: pointer;
+                    transition: 0.5s ease;
+                    &:hover{
+                        color: black;
+                    }
+                  }
+              }
+              .mycol3-03{
+                  width: 25%;
+                  height: 5px;
+                  background-color: white;
+              }
+            }
+        }
+    }    
+}
+

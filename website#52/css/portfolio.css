@@ -1,0 +1,25 @@
+#fullpage02 {
+  width: 100%;
+  position: absolute;
+  background-image: linear-gradient(to right top, #d3860c, #de6a25, #e24c3c, #dd2b55, #ce096e, #c22d90, #ad47ad, #8f5cc4, #747edf, #5d9bee, #59b5f3, #6fccf4); }
+  #fullpage02 .container .row .col-md-4 img {
+    border-radius: 15px; }
+  #fullpage02 .custom-container .row .border .bottom {
+    width: 70px;
+    border-bottom: 1px solid white; }
+  #fullpage02 .custom-container .row .btn .text {
+    float: right;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s ease; }
+    #fullpage02 .custom-container .row .btn .text:hover {
+      color: black; }
+  #fullpage02 .custom-container .row .mycol3-04 {
+    margin-top: 5px;
+    width: 25%;
+    height: 5px;
+    background-color: white; }
+
+/*# sourceMappingURL=portfolio.css.map */

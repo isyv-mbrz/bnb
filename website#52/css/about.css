@@ -1,0 +1,44 @@
+#fullpage {
+  width: 100%;
+  position: absolute;
+  background-image: linear-gradient(to right top, #77a8f0, #7f98fc, #9c81ff, #c45ff3, #eb12d8); }
+  #fullpage .Content01 {
+    margin-top: 200px; }
+    #fullpage .Content01 .mycontainer01 .myrow01 .mycol6-01 h1 {
+      color: white;
+      font-size: 48px; }
+    #fullpage .Content01 .mycontainer01 .myrow01 .mycol6-01 p {
+      font-size: 25px;
+      color: #D6D1D6; }
+    #fullpage .Content01 .mycontainer01 .myrow01 .mycol6-01 .button {
+      margin-top: 40px;
+      background-color: white;
+      padding-top: 5px;
+      width: 130px;
+      height: 30px;
+      border-radius: 15px;
+      text-align: center;
+      cursor: pointer;
+      transition: 0.5s ease; }
+      #fullpage .Content01 .mycontainer01 .myrow01 .mycol6-01 .button:hover {
+        background-color: transparent;
+        color: white;
+        border: 2px solid white; }
+    #fullpage .Content01 .mycontainer01 .myrow01 .col-md-2 {
+      float: right; }
+      #fullpage .Content01 .mycontainer01 .myrow01 .col-md-2 .text {
+        float: right;
+        margin-top: 75px;
+        width: 100%;
+        font-size: 20px;
+        color: white;
+        cursor: pointer;
+        transition: 0.5s ease; }
+        #fullpage .Content01 .mycontainer01 .myrow01 .col-md-2 .text:hover {
+          color: black; }
+    #fullpage .Content01 .mycontainer01 .myrow01 .mycol3-03 {
+      width: 25%;
+      height: 5px;
+      background-color: white; }
+
+/*# sourceMappingURL=about.css.map */

@@ -1,0 +1,61 @@
+#fullpage {
+  width: 100%;
+  position: absolute;
+  background-image: linear-gradient(to right top, #36e3c5, #00d1dd, #00bcf1, #00a3fa, #0085f0, #3776e9, #5464df, #6b51d2, #8f4acc, #ac42c4, #c538b9, #da2ead); }
+  #fullpage .circle-container {
+    margin-top: 180px; }
+    #fullpage .circle-container .row .C .circle {
+      opacity: 0.4;
+      width: 180px;
+      height: 180px;
+      border-radius: 100%;
+      border: 1px solid gray;
+      background-image: linear-gradient(to right top, #36e3c5, #00c8da, #00a9ee, #0085f0, #1658d5); }
+      #fullpage .circle-container .row .C .circle .header {
+        width: 135px;
+        height: 65px;
+        margin-left: 100px; }
+        #fullpage .circle-container .row .C .circle .header h1 {
+          font-size: 72px;
+          background: -webkit-linear-gradient(#36E3C5, #36E3C5);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent; }
+      #fullpage .circle-container .row .C .circle .text {
+        margin-bottom: 40px;
+        width: 350px;
+        height: 80px; }
+        #fullpage .circle-container .row .C .circle .text h1 {
+          margin-top: 0px;
+          display: inline-block;
+          color: white; }
+        #fullpage .circle-container .row .C .circle .text .oneh1 {
+          margin-left: 80px;
+          color: white; }
+        #fullpage .circle-container .row .C .circle .text .twoh1 {
+          margin-left: 10px;
+          color: white; }
+    #fullpage .circle-container .row .txt {
+      margin-top: 70px;
+      height: 30px; }
+      #fullpage .circle-container .row .txt p {
+        font-size: 20px;
+        color: white; }
+    #fullpage .circle-container .row .col-md-2 {
+      float: right; }
+      #fullpage .circle-container .row .col-md-2 .text {
+        float: right;
+        margin-top: 75px;
+        width: 100%;
+        font-size: 20px;
+        color: white;
+        cursor: pointer;
+        transition: 0.5s ease; }
+        #fullpage .circle-container .row .col-md-2 .text:hover {
+          color: black; }
+    #fullpage .circle-container .row .mycol3-04 {
+      margin-top: 5px;
+      width: 25%;
+      height: 5px;
+      background-color: white; }
+
+/*# sourceMappingURL=skill.css.map */

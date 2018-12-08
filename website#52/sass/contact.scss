@@ -1,0 +1,91 @@
+#fullpage{
+    
+    width: 100%;
+    position: absolute;
+    background-image: linear-gradient(to right, #0c3c83, #25589f, #3c75ba, #5493d5, #6db2f0);
+
+    .custom-container01{
+        margin-top: 100px;
+        .row{
+            .one-col{
+               margin-top: 30px;
+                input{
+
+                    width: 100%;
+                    height: 50px;
+                    background-color: transparent;
+                    border:none;
+                    border-bottom: 1px solid white;
+                    box-sizing: border-box;
+                    color:white;
+                    font-size: 20px;
+                   
+                }
+                .empty{
+                    width: 100%;
+                    height: 50px;
+                    
+                }
+                
+            }
+            .two-col{
+                margin-top:50px;
+                input{
+                    
+                    width: 100%;
+                    height: 100px;
+                    background-color: transparent;
+                    border:none;
+                    border-bottom:1px solid white;
+                    box-sizing: border-box;
+                    color: white;
+                    font-size: 20px;
+                }
+                .empty2{
+                    width: 100%;
+                    height: 100px;
+                    
+                }
+            }
+            .btn01{
+                .btn{
+                    margin-top: 50px;
+                    width: 130px;
+                    height:35px;
+                    background-color: white;
+                    text-align: center;
+                    border-radius: 15px;
+                    
+                }
+            }
+        }
+    }
+
+    .custom-container02{
+        .row{
+            margin-top: 100px;
+            .border{
+                float: right;
+                .bottom{
+                    width: 70px;
+                    border-bottom: 1px solid white;
+                }
+            }
+            .btn{
+                .text{
+                    float: right;
+                   
+                    width: 100%;
+                    
+                  }
+            }
+            .mycol3-04{
+                margin-top: 5px;
+                width: 25%;
+                height: 5px;
+                background-color: white;
+            }
+        }
+    }
+}
+
